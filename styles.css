@@ -39,7 +39,7 @@ button
 { 
 	background: none;
 	border: 0px; 
-	border-radius: 5px 5px 5px 5px;
+	border-radius: 7px 7px 7px 7px;
 	color: black;
 	font-size: 15px; 
 	width: 100px;
@@ -58,8 +58,9 @@ button:hover
 #imp
 {
 	border-radius: 5px 5px 5px 5px;
-	background: #f4511e;
+	background: #0dcee7;
 	color: white;
+	font-family:'Courier New', Courier, monospace;
 }
 #imp:hover
 {
